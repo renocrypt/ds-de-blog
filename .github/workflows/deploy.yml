@@ -4,6 +4,13 @@ on:
     types: [opened, edited, deleted, labeled, unlabeled, closed, reopened]
   workflow_dispatch:
 
+# Add permissions to allow GitHub Actions to push to the repo
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+  issues: read
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
