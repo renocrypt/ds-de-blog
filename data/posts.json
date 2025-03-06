@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": 2,
+    "title": "Test Message 2",
+    "content": "# Test Message\nHere is it",
+    "date": "2025-03-05T12:19:26Z",
+    "lastUpdated": "2025-03-06T02:29:52Z",
+    "author": "benjipeng",
+    "tags": [],
+    "url": "https://github.com/renocrypt/ds-de-blog/issues/2"
+  }
+]
