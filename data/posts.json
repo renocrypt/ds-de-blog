@@ -8,5 +8,15 @@
     "author": "benjipeng",
     "tags": [],
     "url": "https://github.com/renocrypt/ds-de-blog/issues/2"
+  },
+  {
+    "id": 1,
+    "title": "Test Issues",
+    "content": "Hello there",
+    "date": "2025-03-05T02:35:45Z",
+    "lastUpdated": "2025-03-06T02:30:19Z",
+    "author": "benjipeng",
+    "tags": [],
+    "url": "https://github.com/renocrypt/ds-de-blog/issues/1"
   }
 ]
